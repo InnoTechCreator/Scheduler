@@ -9,4 +9,6 @@ This Python-based scheduler helps manage multi-ship deployments with a user-frie
 - **Import**: Ability to import schedules
 - **Export**: Ability to export into either PDF or Excel.
 
+- **Dataset is a sample**
+
 This project is ideal for teams needing a comprehensive solution for scheduling and deployment management. Feel free to contribute or provide feedback!
